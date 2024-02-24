@@ -1,0 +1,74 @@
+<html>
+    <main>
+        <header>
+            <a>Персонажи</a>
+            <a>Оружие</a>
+            <a>NPC</a>
+            <a>Растения и предметы</a>
+            <a>Маунты</a>
+        </header>
+        <body>
+            <div class="mainblock">
+            <h1>Soul knight</h1>
+            <img class="qw" src="https://cdn-www.bluestacks.com/bs-images/bg198.jpg">
+            </div>
+
+            <article class="zxc">
+            <p>Рыцарь <br> <br>Здоровье:7<br>
+            Защита:6<br>
+            Мана:180<br>
+            Стартовое Оружие:Новый пистолет<br>
+            Цена:Стартовый персонаж
+         </p>
+            <img class="qq" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQHGosTp-XUjdRA0_xKSEUZN-Qlg_89yUGXDWK95ziffzs4My-XWsU189Jg4vDApzGtNlQ&usqp=CAU">
+            </article>
+            <article class="zxc">
+            <p>Разбойник <br> <br>Здоровье:5<br>
+            Защита:3<br>
+            Мана:180<br>
+            Стартовое Оружие:Джек и Мари<br>
+            Цена:2000
+         </p>
+            <img class="qq" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSvPYGugMTkNM_TU7GoL09TYfLp99S0s8JXjA&usqp=CAU">
+            </article>
+           
+            <article class="zxc">
+            <p>Ведьма <br> <br>Здоровье:3<br>
+            Защита:5<br>
+            Мана:240<br>
+            Стартовое Оружие:Кодекс<br>
+            Цена:3000
+         </p>
+            <img class="qq" src="https://tiermaker.com/images/chart/chart/soul-knight-character-tier-list-420-931931/wizpng.png">
+            </article>
+              
+              <article class="zxc">
+            <p>Алхимик <br> <br>Здоровье:5<br>
+            Защита:5<br>
+            Мана:180<br>
+            Стартовое Оружие:Пузырьковая машина<br>
+            Цена:5000
+         </p>
+            <img class="qq" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQwKyh_pBbZLpS0d-tEt9Z3ZDPWpU4pokAT1Q&usqp=CAU">
+            </article>
+            <article class="zxc">
+            <p>Ассасин <br> <br>Здоровье:4<br>
+            Защита:4<br>
+            Мана:180<br>
+            Стартовое Оружие:Кровавый клинок<br>
+            Цена:4000
+         </p>
+            <img class="qq" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAANgAAADqCAMAAAD3THt5AAAAb1BMVEX///8AAAAREREiIiJ3ABGZETNVACIzABEAEhF8ABHumRH/uwAPDw8OIyGfDzR0AA0sABH/xABUACH5oBIXJCM1ABJSACOCABJrABGSADX0oA2mDTV6AA0oAA8NDQ0ADwv/zABdACUAJSL/pxMkABGly1eSAAADqElEQVR4nO3c63KaQBiAYdtGlFaNqTG0kRxMev/X2JnILpGP3dkjoHnfX50psDwjM+uCZDZL3bfUJT/DwIABm0jAgE0kYJOEWc7jh0f3VdmpuhcbDUpNBatvOtXAgAEDBuwKYVXdqXpbNw0Bizt7q6zb22Fz6rA275VMmA8mWm/mpzbAgAEDBgxYHCw/Q+YE0wUKgSUM2EfAgGUL2EeXBNMLTbmUlvnB9NbfVStjz+llTU5LaT+hhJlbJYdpYPprEhgwYMCAAROyXDP12LBsHx0wYMCAAQM2IEyusiOnbD/YSp2GTRgGS/0ZAgMGDBgwYJEwmZ8sqhcNe3HYWg86BCyuTzCf3YABSx2w84ABS10GmIWaS9ETsPOAAUsdsPOAAdMt0/QJZk7ulg+2FK82h1XPVRtztXiNOiOs7L7EF9bt3KHb7l4lMGDAgAEbGmaZpP6I5DwmZ62/Ij2PDQlrx5C9P57a3TW9WjYWez3KveSg48B2P5t+Nd25wCx7AQMGDBiwrwqT+wMDBgwYMGBfGKbuBFfyyLr3XZPfQtO8lxy0PeljcepoObQDrL137yKMTA/Rc+9e/6tQRcK8rsnI9BBLNSowYMCAARsaNug85gIzd/R6gC9m6rB6buKrW/btvKwHHQKmgXHPX3oeu6iHLO0VCAwYMGDAXGHHbLCM85gFJtf/ErRdNIW4on8PtxbJeTkQplz7MFhcPS/YrcxbAwOWLWAfAbsmmJypn7ZN7W+sVaPAnsVbwk6wRbcn8dWhLo5N+WW2F8X93uved2Fb8WWvfGg+S2DAgAEDdrGwbbd/FpjLStHynpRLcqGp09vY5mXLAr7ruimfjHO309o+dQcbzOeWS7k1XqUyp1cD4toAAwYMGDBXmJ6RehzdqkuCmT+68kGl7xGYv231yUSpQOp4dSise1fH8jXSpXQwdYbAgAEDBswbJmbqFrYVMLnQHBKmH0b3wGTio2th4jHFwuE+Qp8sTX3zcipYooszrND3+4ABAwYM2KxnTV0J2HGxN9UzZWfL889rSWFkYb8NK5pVeyH/K9CTHBb0kOWl+H2qkA90gAEDBgzYFcHUPJYelsocBFvKd8OuBCbf5gMGDBgwYMCAAQMGDBgwYBlh+nbvBSw0fYRL+cfB5EYXCbNcgcCAAQMG7Hpglnl5CFikMLKMHmDAgAEDBuzaYZM98sjDA8sTsAkdeeThgeUJ2ISOHDj89I888vDA8gRsQkceeXhgeQI29JH/A89uAybosyZ2AAAAAElFTkSuQmCC">
+            </article>
+         <article class="zxc">
+            <p>Паладин <br> <br>Здоровье:1<br>
+            Защита:8<br>
+            Мана:120<br>
+            Стартовое Оружие:Священный цеп<br>
+            Цена:1.00$
+         </p>
+            <img class="qq" src="https://www.emulatorpc.com/wp-content/uploads/2022/06/Soul-Knight-Paladin-3.jpg">
+            </article>
+        </body>
+    </main>
+</html>
